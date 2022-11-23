@@ -2,8 +2,9 @@
 //let numeros = [1,2,3];
 function suma(array) {
     let sum = 0;
+    if 
     for (let i = 0; i < array.length; i++) {
-        sum += array[i];
+       if sum += array[i];
     };
     return sum;
 }
